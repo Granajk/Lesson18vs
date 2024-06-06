@@ -1,0 +1,3 @@
+struct Date{
+int name[10];
+};
