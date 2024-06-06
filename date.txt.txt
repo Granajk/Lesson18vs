@@ -2,4 +2,7 @@ struct Date{
 int year[10];
 int month[10];
 int days[10];
+void showInfo{
+std::cout << "years: " << year << std::endl;
+}
 };
